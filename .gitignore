@@ -4,5 +4,5 @@ venv
 venv/*
 .DS_Store
 .idea
-dataset/*
+dataset/*.csv
 RESULTS/*.pt
