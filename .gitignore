@@ -6,3 +6,6 @@ venv/*
 .idea
 dataset/*.csv
 RESULTS/*.pt
+audio
+audio/*
+FineTunedBertClassifier
