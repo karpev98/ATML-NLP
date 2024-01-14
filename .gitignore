@@ -5,7 +5,7 @@ venv/*
 .DS_Store
 .idea
 dataset/*.csv
-RESULTS/*.pt
+# RESULTS/*.pt
 audio
 audio/*
 FineTunedBertClassifier
